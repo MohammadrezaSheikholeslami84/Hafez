@@ -9,7 +9,6 @@ Faal Hafez GUI is a Java application that fetches and displays Hafez's poems and
 - [Usage](#usage)
 - [JSON and API](#json-and-api)
 - [Contributing](#contributing)
-- [License](#license)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
