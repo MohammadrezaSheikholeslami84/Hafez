@@ -62,9 +62,6 @@ The application uses the `json-simple` library to parse the JSON response and ex
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Authors
 - [Mohammadreza Sheikholeslami](https://github.com/yourusername)
 
